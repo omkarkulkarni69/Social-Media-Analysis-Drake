@@ -1,4 +1,4 @@
-# **Machine Learning Social Media Analysis with Tableau: Drake Case Study** 🎶  
+# **Machine Learning Social Media Analysis: Drake Case Study** 🎶  
 
 ## **📌 The Report Includes the Following Sections:**  
 
