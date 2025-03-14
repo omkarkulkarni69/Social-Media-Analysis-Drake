@@ -36,19 +36,28 @@
 ## **📊 Key Visualizations from the Analysis**  
 
 🔹 **Social Network Analysis - Centrality Analysis**  
-📷 *(Insert Tableau Network Graph Image)*  
+1. Degree Centrality
+<img width="225" alt="image" src="https://github.com/user-attachments/assets/17252729-359b-42c5-ab09-37aee0f1d91e" />
+
+2. Betweenness Centrality
+<img width="211" alt="image" src="https://github.com/user-attachments/assets/3d865d01-7356-4f1a-803f-27db42c8bc1f" />
+
+3. Closeness Centrality
+<img width="231" alt="image" src="https://github.com/user-attachments/assets/32bafb61-ab82-49ef-a7f8-af0f9f6d29c6" />
 
 🔹 **Community Analysis with Girvan-Newman / Louvain Methods**  
-📷 *(Insert Tableau Community Detection Image)*  
+1. Girvan-Newman
+<img width="274" alt="image" src="https://github.com/user-attachments/assets/3432679a-a961-4115-81f3-3384bbcc7718" />
 
-🔹 **Twitter Sentiment Analysis Dashboard**  
-📷 *(Insert Tableau Sentiment Dashboard Image)*  
+2. Louvain
+<img width="219" alt="image" src="https://github.com/user-attachments/assets/d385cfa1-2ea7-4c37-a266-10567693f70f" />
 
-🔹 **Spotify Audio Feature Trends Dashboard**  
-📷 *(Insert Tableau Music Trends Dashboard Image)*  
+🔹 **Twitter Sentiment Analysis**  
+1. Sentiment Scores
+<img width="193" alt="image" src="https://github.com/user-attachments/assets/485c4054-d87f-4b1b-bdb4-79c1106bba32" />
 
-🔹 **YouTube Engagement Insights Dashboard**  
-📷 *(Insert Tableau YouTube Analysis Image)*  
+2. Emotional Scores
+<img width="217" alt="image" src="https://github.com/user-attachments/assets/ff36b076-3c82-43c9-9afd-dc0d0310925d" />
 
 ---
 
